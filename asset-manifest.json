@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cheez2/static/css/main.15be984f.chunk.css",
+    "main.js": "/cheez2/static/js/main.12eb524c.chunk.js",
+    "main.js.map": "/cheez2/static/js/main.12eb524c.chunk.js.map",
+    "runtime-main.js": "/cheez2/static/js/runtime-main.52358622.js",
+    "runtime-main.js.map": "/cheez2/static/js/runtime-main.52358622.js.map",
+    "static/js/2.245b82e7.chunk.js": "/cheez2/static/js/2.245b82e7.chunk.js",
+    "static/js/2.245b82e7.chunk.js.map": "/cheez2/static/js/2.245b82e7.chunk.js.map",
+    "index.html": "/cheez2/index.html",
+    "precache-manifest.6c81cd76c38663fddd908fd76a89af81.js": "/cheez2/precache-manifest.6c81cd76c38663fddd908fd76a89af81.js",
+    "service-worker.js": "/cheez2/service-worker.js",
+    "static/css/main.15be984f.chunk.css.map": "/cheez2/static/css/main.15be984f.chunk.css.map",
+    "static/js/2.245b82e7.chunk.js.LICENSE.txt": "/cheez2/static/js/2.245b82e7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cheez2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52358622.js",
+    "static/js/2.245b82e7.chunk.js",
+    "static/css/main.15be984f.chunk.css",
+    "static/js/main.12eb524c.chunk.js"
+  ]
+}
