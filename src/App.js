@@ -8,7 +8,7 @@ import DashboardSelector from "./pages/DashboardSelector";
 import "./assets/scss/base.scss";
 import "./App.css";
 import axios from "axios";
-if (process.env.NODE_ENV === "development") {
+if (process.env.NODE_ENV === "production") {
   require("./assets/mock-endpoints/mocks");
 }
 
